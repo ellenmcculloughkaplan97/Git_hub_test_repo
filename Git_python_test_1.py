@@ -13,3 +13,8 @@ Created on Thu Nov  7 11:50:50 2024
 def git_test_func():
     return "hi GIt"
 
+
+"Now im going to add a second function"
+
+def new_func():
+    return "second function"
